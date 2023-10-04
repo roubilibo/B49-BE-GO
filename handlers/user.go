@@ -1,6 +1,6 @@
 package handlers
 
-import (``
+import (
 	dto "myapp/dto/result"
 	usersdto "myapp/dto/users"
 	"myapp/models"
